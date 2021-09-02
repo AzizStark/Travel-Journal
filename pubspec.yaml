@@ -47,6 +47,8 @@ flutter:
     - images/kimdami.jpeg
     - images/bg_tokyo.jpeg
     - images/bg_itaewon.jpeg
+    - images/bg_brisbane.jpeg
+    - images/bg_malaysia.jpeg
     - images/icons/settings.svg
     - images/icons/add.svg
     - images/icons/download.svg
